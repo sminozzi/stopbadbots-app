@@ -1,0 +1,102 @@
+[04-Jan-2020 16:58:36 UTC] PHP Warning:  Use of undefined constant val - assumed 'val' (this will throw an Error in a future version of PHP) in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 212
+[14-Jan-2020 14:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printr() in /home/boatplug/public_html/easy-installer/install/server_requirements.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 70
+[14-Jan-2020 14:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printr() in /home/boatplug/public_html/easy-installer/install/server_requirements.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 70
+[14-Jan-2020 14:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printr() in /home/boatplug/public_html/easy-installer/install/server_requirements.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 70
+[14-Jan-2020 14:15:50 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 132
+[14-Jan-2020 14:15:50 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 133
+[14-Jan-2020 14:17:10 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 132
+[14-Jan-2020 14:17:10 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 133
+[14-Jan-2020 14:17:13 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 132
+[14-Jan-2020 14:17:13 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 133
+[14-Jan-2020 14:17:30 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 132
+[14-Jan-2020 14:17:30 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 133
+[14-Jan-2020 14:17:57 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 132
+[14-Jan-2020 14:17:57 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 133
+[14-Jan-2020 14:21:50 UTC] PHP Notice:  Undefined index: asp_tags in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 137
+[14-Jan-2020 14:21:50 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 138
+[14-Jan-2020 14:24:39 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 138
+[14-Jan-2020 14:26:21 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 139
+[14-Jan-2020 14:29:54 UTC] PHP Notice:  Undefined index: MysqlI Support in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 138
+[14-Jan-2020 14:29:54 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 142
+[14-Jan-2020 14:32:29 UTC] PHP Notice:  Undefined index: safe_mode in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 147
+[14-Jan-2020 14:33:57 UTC] PHP Notice:  Undefined variable: loaded_extensions in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:33:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:36:14 UTC] PHP Notice:  Undefined variable: loaded_extensions in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:36:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:37:01 UTC] PHP Notice:  Undefined variable: loaded_extensions in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:37:01 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:37:59 UTC] PHP Notice:  Undefined variable: loaded_extensions in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:37:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 175
+[14-Jan-2020 14:40:03 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 173
+[14-Jan-2020 14:40:31 UTC] PHP Notice:  Undefined variable: loaded_extensions in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 183
+[14-Jan-2020 14:40:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 183
+[14-Jan-2020 14:50:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 137
+[14-Jan-2020 14:53:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 149
+[14-Jan-2020 15:02:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 148
+[14-Jan-2020 15:02:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 148
+[14-Jan-2020 15:13:46 UTC] PHP Notice:  Undefined offset: 3 in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 304
+[14-Jan-2020 15:13:46 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 304
+[14-Jan-2020 15:13:46 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 304
+[14-Jan-2020 15:13:46 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 305
+[14-Jan-2020 15:16:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 184
+[14-Jan-2020 15:16:34 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 184
+[14-Jan-2020 15:32:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/boatplug/public_html/easy-installer/install/server_requirements.php on line 181
+[14-Jan-2020 17:01:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/boatplug/public_html/easy-installer/install/start.php on line 16
+[14-Jan-2020 17:01:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/boatplug/public_html/easy-installer/install/start.php on line 16
+[14-Jan-2020 17:33:50 UTC] PHP Warning:  Use of undefined constant EI_SQL_DUMP_FILE_CREATE - assumed 'EI_SQL_DUMP_FILE_CREATE' (this will throw an Error in a future version of PHP) in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 56
+[14-Jan-2020 17:33:50 UTC] PHP Warning:  file_get_contents(EI_SQL_DUMP_FILE_CREATE): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 84
+[14-Jan-2020 17:36:35 UTC] PHP Warning:  Use of undefined constant EI_SQL_DUMP_FILE_CREATE - assumed 'EI_SQL_DUMP_FILE_CREATE' (this will throw an Error in a future version of PHP) in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 59
+[14-Jan-2020 17:36:35 UTC] PHP Warning:  file_get_contents(EI_SQL_DUMP_FILE_CREATE): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 87
+[14-Jan-2020 17:36:53 UTC] PHP Warning:  Use of undefined constant EI_SQL_DUMP_FILE_CREATE - assumed 'EI_SQL_DUMP_FILE_CREATE' (this will throw an Error in a future version of PHP) in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 59
+[14-Jan-2020 17:36:53 UTC] PHP Warning:  file_get_contents(EI_SQL_DUMP_FILE_CREATE): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 87
+[14-Jan-2020 17:38:48 UTC] PHP Warning:  Use of undefined constant EI_SQL_DUMP_FILE_CREATE - assumed 'EI_SQL_DUMP_FILE_CREATE' (this will throw an Error in a future version of PHP) in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 59
+[14-Jan-2020 17:38:48 UTC] PHP Warning:  file_get_contents(EI_SQL_DUMP_FILE_CREATE): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 87
+[14-Jan-2020 17:45:35 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 86
+[14-Jan-2020 17:45:35 UTC] PHP Warning:  fopen(/stopbadbots/common/config.inc.php): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 87
+[14-Jan-2020 17:45:35 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 88
+[14-Jan-2020 17:45:35 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 91
+[14-Jan-2020 17:45:35 UTC] PHP Notice:  Undefined variable: install_type in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 171
+[14-Jan-2020 17:45:35 UTC] PHP Notice:  Undefined variable: install_type in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 182
+[14-Jan-2020 17:53:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/boatplug/public_html/easy-installer/install/database_settings.php on line 47
+[14-Jan-2020 17:59:52 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 86
+[14-Jan-2020 17:59:52 UTC] PHP Warning:  fopen(/stopbadbots/common/config.inc.php): failed to open stream: No such file or directory in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 87
+[14-Jan-2020 17:59:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 88
+[14-Jan-2020 17:59:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/boatplug/public_html/easy-installer/install/complete_installation.php on line 91
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 118
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 119
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  file_get_contents(/home/boatplug/public_html/stopbadbots/sql_dump/create.sql): failed to open stream: No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 120
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 121
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 122
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  file(/home/boatplug/public_html/stopbadbots/sql_dump/create.sql): failed to open stream: No such file or directory in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 19
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:06:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:06:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:06:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use assign-op operators with string offsets in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php:33
+Stack trace:
+#0 /home/boatplug/public_html/stopbadbots/install/complete_installation.php(129): apphp_db_install('/home/boatplug/...')
+#1 {main}
+  thrown in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 120
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 121
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  file_get_contents(/home/boatplug/public_html/stopbadbots/sql_dump/create.sql): failed to open stream: No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 122
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 123
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  chmod(): No such file or directory in /home/boatplug/public_html/stopbadbots/install/complete_installation.php on line 124
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  file(/home/boatplug/public_html/stopbadbots/sql_dump/create.sql): failed to open stream: No such file or directory in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 19
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:08:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:08:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 12:08:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use assign-op operators with string offsets in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php:33
+Stack trace:
+#0 /home/boatplug/public_html/stopbadbots/install/complete_installation.php(131): apphp_db_install('/home/boatplug/...')
+#1 {main}
+  thrown in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 33
+[24-Jan-2020 13:41:58 UTC] PHP Notice:  Undefined variable: admin_email in /home/boatplug/public_html/stopbadbots/install/include/functions.inc.php on line 62

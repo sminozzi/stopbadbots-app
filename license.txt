@@ -1,0 +1,11 @@
+LICENSE
+
+You can use this software in your site (personal or business site).
+
+You can't:
+
+1) Resell the software.
+2) Remove or change all copyright information.
+3) Modify or copy parts.
+
+Bill Minozzi
